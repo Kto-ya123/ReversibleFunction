@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560769050 source:/home/ITRANSITION.CORP/a.luzgin/example/ReversibleFunction/main.cpp
+	<iostream>
+	<vector>
+
